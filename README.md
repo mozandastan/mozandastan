@@ -2,7 +2,7 @@
 Hello! My name is Ozan Dastan. I'm passionate about mobile game and application development. 
 I hope you'll enjoy exploring the projects on my GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozandastan&size_weight=0.5&count_weight=0.5&hide=hlsl))](https://github.com/mozandastan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozandastan&size_weight=0.5&count_weight=0.5&hide=hlsl)](https://github.com/mozandastan/github-readme-stats)
 
 ## Technologies
 Here are the technologies I'm experienced with and currently learning:
